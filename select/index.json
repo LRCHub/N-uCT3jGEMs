@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "やさしさに包まれたなら - Embraced In Softness / Yasashisa Ni Tsutsumareta Nara",
+  "base_artist": "Yumi Arai",
+  "createdAt": "2026-02-16T14:34:17.495419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "井上あずみ",
+      "has_synced": true,
+      "path": "select/01_やさしさに包まれたなら_井上あずみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "All That Jazz",
+      "has_synced": false,
+      "path": "select/02_やさしさに包まれたなら_All_That_Jazz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/03_やさしさに包まれたなら_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/04_やさしさに包まれたなら_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/05_やさしさに包まれたなら_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら (魔女の宅急便)",
+      "artist": "久木田薫",
+      "has_synced": false,
+      "path": "select/06_やさしさに包まれたなら_(魔女の宅急便)_久木田薫.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "久木田薫",
+      "has_synced": false,
+      "path": "select/07_やさしさに包まれたなら_久木田薫.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら (ハープ編)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/08_やさしさに包まれたなら_(ハープ編)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "ayaka",
+      "has_synced": true,
+      "path": "select/09_やさしさに包まれたなら_ayaka.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら (2022 mix) - Embraced In Softness / Yasashisa Ni Tsutsumareta Nara (2022 Ｍix)",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/10_やさしさに包まれたなら_(2022_mix)_-_Embraced_In_Softness___Yasashisa_Ni_Tsutsumareta_Nara_(_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "原田知世",
+      "has_synced": true,
+      "path": "select/11_やさしさに包まれたなら_原田知世.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら (2022 mix) - Embraced In Softness / Yasashisa Ni Tsutsumareta Nara (2022 Ｍix)",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/12_やさしさに包まれたなら_(2022_mix)_-_Embraced_In_Softness___Yasashisa_Ni_Tsutsumareta_Nara_(_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら",
+      "artist": "All That Jazz feat. Cosmic Home",
+      "has_synced": false,
+      "path": "select/13_やさしさに包まれたなら_All_That_Jazz_feat._Cosmic_Home.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら(2017 studio session) - 2017 Studio Session",
+      "artist": "Leola",
+      "has_synced": false,
+      "path": "select/14_やさしさに包まれたなら(2017_studio_session)_-_2017_Studio_Session_Leola.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら (2017 studio session)",
+      "artist": "Leola",
+      "has_synced": false,
+      "path": "select/15_やさしさに包まれたなら_(2017_studio_session)_Leola.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "やさしさに包まれたなら (album version)",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/16_やさしさに包まれたなら_(album_version)_Yumi_Arai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_01_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_02_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_03_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_04_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_05_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_06_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_07_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_08_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_09_やさしさに包まれたなら_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_10_やさしさに包まれたなら_荒井_由実.txt"
+    }
+  ]
+}
